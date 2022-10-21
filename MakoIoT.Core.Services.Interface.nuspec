@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MakoIoT.Core.Services.Interface</id>
+    <version>$version$</version>
+    <title>MakoIoT.Core.Services.Interface</title>
+    <authors>CSHARK</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <releaseNotes>
+    </releaseNotes>
+    <readme>docs\README.md</readme>
+    <developmentDependency>false</developmentDependency>
+    <projectUrl>https://github.com/CShark-Hub/Mako-IoT.Core.Services.Interface</projectUrl>
+    <repository type="git" url="https://github.com/CShark-Hub/Mako-IoT.Core.Services.Interface" />
+    <copyright>Copyright (c) CSHARK Sp. z o. o.</copyright>
+    <description>Interfaces library for MAKO-IoT .NET Core services</description>
+    <tags>mako-iot core interfaces</tags>
+    <dependencies>
+      <dependency id="MakoIoT.Messages" version="1.0.3" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="src\MakoIoT.Core.Services.Interface\bin\Release\net6.0\MakoIoT.Core.Services.Interface.dll" target="lib\net6.0\MakoIoT.Core.Services.Interface.dll" />
+    <file src="src\MakoIoT.Core.Services.Interface\bin\Release\net6.0\MakoIoT.Core.Services.Interface.pdb" target="lib\net6.0\MakoIoT.Core.Services.Interface.pdb" />
+    <file src="README.md" target="docs\" />
+    <file src="LICENSE.md" target="" />
+  </files>
+</package>
