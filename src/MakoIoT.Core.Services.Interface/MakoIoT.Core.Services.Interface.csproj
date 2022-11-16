@@ -4,6 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>MakoIoT.Core.Services.Interface</Title>
+    <Authors>CSHARK</Authors>
+    <Copyright>Copyright (c) CSHARK Sp. z o. o.</Copyright>
+    <PackageProjectUrl>https://github.com/CShark-Hub/Mako-IoT.Core.Services.Interface</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/CShark-Hub/Mako-IoT.Core.Services.Interface/blob/main/LICENSE.md</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/CShark-Hub/Mako-IoT.Core.Services.Interfac</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
