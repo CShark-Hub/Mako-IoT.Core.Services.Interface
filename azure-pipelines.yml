@@ -18,11 +18,9 @@ pool:
 variables:
 - group: mako-iot-github
 - name: runSettingsFile
-  value: 'Tests\MakoIoT.Core.Services.Interface.Test\nano.runsettings'
+  value: 'MakoIoT.Core.Services.Interface.Test\nano.runsettings'
 - name: packageName
   value: 'MakoIoT.Core.Services.Interface'
-- name: nugetProjectName
-  value: MakoIoT.Core.Services.Interface.csproj
 
 resources:
   repositories:
