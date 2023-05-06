@@ -1,4 +1,5 @@
-# Project readme
+# Mako-IoT.Core.Services.Interface
+Core library with shared interfaces used across Mako-IoT .NET Core components.
 
 ## How to manually sync fork
 - Clone repository and navigate into folder
