@@ -17,7 +17,6 @@
     <description>Interfaces library for MAKO-IoT .NET Core services</description>
     <tags>mako-iot core interfaces</tags>
     <dependencies>
-      <dependency id="MakoIoT.Messages" version="1.0.3" />
     </dependencies>
   </metadata>
   <files>

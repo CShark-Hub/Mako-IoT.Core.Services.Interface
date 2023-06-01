@@ -12,8 +12,4 @@
     <RepositoryUrl>https://github.com/CShark-Hub/Mako-IoT.Core.Services.Interfac</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="MakoIoT.Messages" Version="1.0.3.26893" />
-  </ItemGroup>
 </Project>
